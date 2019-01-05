@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>그룹웨어</title>
-<link rel="stylesheet" href="resources/css/style.css" />
+<link rel="stylesheet" href="<%= application.getContextPath() %>/resources/css/stlye.css" />
 </head>
 <body style="background: LightYellow">
 	<div style="width: 100%">
